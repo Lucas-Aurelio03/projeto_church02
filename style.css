@@ -43,6 +43,8 @@ header, nav, main, aside, footer {
 
 	/* Margem externa de todos os lados. */
 	margin: 3px;
+
+	border-radius: 10px;
 }
 
 /* Seletores para formatação individual. */
@@ -78,6 +80,8 @@ header #logo {
 
 	/* Alinha os itens na horizontal. */
 	align-items: center;
+
+	border-radius: 10px;
 }
 
 #openMenu, #closeMenu {
@@ -136,6 +140,8 @@ main {
 	/* flex-shrink - Capacidade de redução do item.    */
 	/* flex-basis – Tamanho inicial do item.           */
 	flex: 20 1 500px;
+
+	
 }
 
 aside {
