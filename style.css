@@ -111,7 +111,7 @@ body {
     justify-content: center;
     text-align: center;
     position: relative;
-    background: url('./projeto_church02/img/img 3.jpg') center center/cover no-repeat;
+    background: url('img/img\ 3.jpg') center center/cover no-repeat;
     overflow: hidden;
 }
 
@@ -167,7 +167,7 @@ body {
 
 .schedule-section {
     padding: 4rem 10%;
-    background: url('/img 2.png') center center/cover no-repeat;
+    background: url('img/img\ 2.png') center center/cover no-repeat;
     position: relative;
     clip-path: polygon(0 5%, 100% 0, 100% 95%, 0 100%);
 }
